@@ -1,50 +1,53 @@
-# Hi, I'm Ali Karoui 👋
+# Bonjour, je suis Ali Karoui 👋
 
-🎓 **Master's student in Network and Systems Engineering**  
+🎓 **Étudiant en Master Ingénierie des Réseaux et des Systèmes**  
 Université de Versailles Saint-Quentin-en-Yvelines (UVSQ) — Université Paris-Saclay
 
-I'm interested in **cybersecurity, systems and networks, and cloud/DevOps engineering**. My projects combine hands-on infrastructure, network deployment, Python development, and machine learning.
+Je m'intéresse à la **cybersécurité, aux systèmes et réseaux, ainsi qu'au Cloud et au DevOps**. Mes projets associent la mise en œuvre d'infrastructures, le déploiement réseau, le développement Python et l'intelligence artificielle.
 
-🎯 **Looking for a 5–6 month internship in Île-de-France, starting February–March 2027.**
+🎯 **À la recherche d'un stage de 5 à 6 mois en Île-de-France, à partir de février–mars 2027.**
 
-## 🔧 Technical Skills
+## 🔧 Compétences techniques
 
-- **Systems & Networking:** Linux, Ubuntu, Windows, IP networking, PXE/iPXE, Cisco Packet Tracer
-- **Cybersecurity:** Wireshark, firewalls, VPN, IPsec, TLS, PKI, network security fundamentals
-- **Cloud & Virtualization:** AWS, Azure, Google Cloud, OpenStack, Kubernetes
-- **Programming:** Python, C/C++, Java, PHP, JavaScript, SQL
-- **AI & Data:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy
-- **Tools:** Git, GitHub, VS Code, MySQL, FastAPI
+- **Systèmes et réseaux :** Linux, Ubuntu, Windows, réseaux IP, PXE/iPXE, Cisco Packet Tracer
+- **Cybersécurité :** Wireshark, pare-feu, VPN, IPsec, TLS, PKI, fondamentaux de la sécurité réseau
+- **Cloud et virtualisation :** AWS, Azure, Google Cloud, OpenStack, Kubernetes
+- **Programmation :** Python, C/C++, Java, PHP, JavaScript, SQL
+- **IA et données :** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy
+- **Outils :** Git, GitHub, VS Code, MySQL, FastAPI
 
-## 🚀 Featured Projects
+## 🚀 Projets principaux
 
 ### [UVSQ iPXE Triple Boot](https://github.com/K4ROUI/UVSQ-IPXE-tripleboot)
-Network boot infrastructure for deploying multiple operating systems in a university computer lab.
 
-**Focus:** iPXE, network boot, PXE infrastructure, operating-system deployment.
+Infrastructure de démarrage réseau permettant de déployer plusieurs systèmes d'exploitation dans un laboratoire informatique universitaire.
+
+**Technologies et domaines :** iPXE, démarrage réseau, infrastructure PXE, déploiement de systèmes d'exploitation.
 
 ### [Medicine Prediction & Drug Repurposing](https://github.com/K4ROUI/Medicine-Prediction-Drug-Repurposing)
-Machine-learning project exploring drug repurposing and predicting potential medicine uses and side effects through a web application.
 
-**Focus:** Python, machine learning, TensorFlow, PyTorch, FastAPI.
+Projet de machine learning consacré au repositionnement de médicaments et à la prédiction de leurs usages potentiels et effets secondaires, à travers une application web.
+
+**Technologies et domaines :** Python, machine learning, TensorFlow, PyTorch, FastAPI.
 
 ### [MAC Protocol Simulation](https://github.com/K4ROUI/simulation)
-Python simulation of a MAC protocol using exponential backoff, with analysis of network performance.
 
-**Focus:** Python, networking, simulation, performance analysis.
+Simulation en Python d'un protocole MAC utilisant un mécanisme de backoff exponentiel, avec analyse des performances du réseau.
 
-## 📚 Currently Exploring
+**Technologies et domaines :** Python, réseaux, simulation, analyse des performances.
 
-- Cloud security and Zero Trust architecture
-- Network monitoring and defensive security
-- Infrastructure automation and reproducible deployments
+## 📚 Sujets approfondis actuellement
+
+- Sécurité Cloud et architecture Zero Trust
+- Supervision réseau et sécurité défensive
+- Automatisation des infrastructures et reproductibilité des déploiements
 
 ## 📫 Contact
 
-- **Email:** karoui.ali2004@gmail.com
-- **GitHub:** [@K4ROUI](https://github.com/K4ROUI)
-- **Location:** Île-de-France, France
+- **E-mail :** [karoui.ali2004@gmail.com](mailto:karoui.ali2004@gmail.com)
+- **GitHub :** [@K4ROUI](https://github.com/K4ROUI)
+- **Localisation :** Île-de-France, France
 
 ---
 
-*This profile highlights academic projects and technical work. See each repository for implementation details, setup instructions, and project status.*
+*Ce profil présente mes projets académiques et mes réalisations techniques. Consultez les dépôts pour découvrir les détails d'implémentation, les instructions d'installation et l'état d'avancement de chaque projet.*
